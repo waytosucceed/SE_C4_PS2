@@ -1,0 +1,176 @@
+{
+  "heading": "Division Method",
+  "topics": [
+    {
+      "heading": "Division Method",
+      "questions": [
+        {
+          "questionNo": 11,
+          "question": "The HCF of 28 and 49 is:",
+          "options": [
+            { "text": "4" },
+            { "text": "7" },
+            { "text": "14" },
+            { "text": "28" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 12,
+          "question": "The HCF of 72 and 90 is:",
+          "options": [
+            { "text": "2" },
+            { "text": "6" },
+            { "text": "9" },
+            { "text": "18" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 13,
+          "question": "Value of B is ___?<br><img width='50%' src='./assests/images/question/2.png'>",
+          "options": [
+            { "text": "8" },
+            { "text": "10" },
+            { "text": "12" },
+            { "text": "15" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 14,
+          "question": "Sum of B and E from the image is___?<br><img width='50%' src='./assests/images/question/1.png'>",
+          "options": [
+            { "text": "72" },
+            { "text": "54" },
+            { "text": "24" },
+            { "text": "12" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 15,
+          "question": "Which of the following pairs has the same HCF as 32 and 48?",
+          "options": [
+            { "text": "16 and 36" },
+            { "text": "24 and 60" },
+            { "text": "18 and 27" },
+            { "text": "80 and 64" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 16,
+          "question": "Which of the following pairs has the same HCF as 42 and 56?",
+          "options": [
+            { "text": "28 and 40" },
+            { "text": "28 and 42" },
+            { "text": "35 and 49" },
+            { "text": "24 and 36" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 17,
+          "question": "A baker has 48 chocolate muffins and 36 vanilla muffins. He wants to pack them into boxes with the same number of each type. What is the greatest number of boxes he can make?",
+          "options": [
+            { "text": "6" },
+            { "text": "8" },
+            { "text": "12" },
+            { "text": "16" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 18,
+          "question": "A farmer has 80 carrots and 64 potatoes. He wants to group them into bundles with the same number of each. What is the maximum number of bundles?",
+          "options": [
+            { "text": "8" },
+            { "text": "16" },
+            { "text": "20" },
+            { "text": "24" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 19,
+          "question": "A decorator has 54 red ribbons and 72 blue ribbons. She wants to divide them into sets with equal numbers of each. What is the largest number of sets she can create?",
+          "options": [
+            { "text": "9" },
+            { "text": "12" },
+            { "text": "18" },
+            { "text": "24" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 20,
+          "question": "A store has 56 pens, 72 pencils, and 96 erasers. What is the largest number of identical kits they can make with equal quantities of each item?",
+          "options": [
+            { "text": "4" },
+            { "text": "8" },
+            { "text": "16" },
+            { "text": "24" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 21,
+          "question": "Two pieces of cloth measuring 180 cm and 252 cm are to be cut into equal-length strips with no cloth left over. What is the greatest possible length of each strip?",
+          "options": [
+            { "text": "12 cm" },
+            { "text": "18 cm" },
+            { "text": "24 cm" },
+            { "text": "36 cm" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 22,
+          "question": "A gardener wants to plant 96 rose bushes and 144 tulips in rows with the same number of plants. What is the maximum number of plants in each row?",
+          "options": [
+            { "text": "8" },
+            { "text": "12" },
+            { "text": "24" },
+            { "text": "48" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 23,
+          "question": "There are 180 boys and 225 girls in a school. The school wants to form equal-sized teams without mixing boys and girls. What is the maximum number of teams possible?",
+          "options": [
+            { "text": "15" },
+            { "text": "25" },
+            { "text": "45" },
+            { "text": "75" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 24,
+          "question": "A chocolate factory has three bars of lengths 180 cm, 240 cm, and 300 cm. They want to cut them into equal pieces of maximum possible length without any leftover chocolate. How many total pieces will they get?",
+          "options": [
+            { "text": "12" },
+            { "text": "10" },
+            { "text": "8" },
+            { "text": "6" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 25,
+          "question": "Three wooden planks are 252 cm, 336 cm, and 420 cm long. A carpenter wants to cut them into equal pieces of the largest possible length without wasting any wood. How many pieces of length 3 and 5 will he get?",
+          "options": [
+            { "text": "5" },
+            { "text": "8" },
+            { "text": "12" },
+            { "text": "24" }
+          ],
+          "answer": 1
+        }
+      ]
+      
+    }
+  ]
+}

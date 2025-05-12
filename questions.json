@@ -160,7 +160,7 @@
         },
         {
           "questionNo": 25,
-          "question": "Three wooden planks are 252 cm, 336 cm, and 420 cm long. A carpenter wants to cut them into equal pieces of the largest possible length without wasting any wood. How many pieces of length 3 and 5 will he get?",
+          "question": "Three wooden planks are 252 cm, 336 cm, and 420 cm long. A carpenter cuts them into equal sizes of the largest possible length without wasting any wood. How many pieces will he get from 252 cm and 420 cm planks?",
           "options": [
             { "text": "5" },
             { "text": "8" },
